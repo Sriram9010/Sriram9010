@@ -1,86 +1,55 @@
-<!-- SRIRAM_RESUME.md - Animated README-style resume for SRIRAM PENUMALA -->
+# 👋 Hi, I'm Sriram Penumala  
 
-# SRIRAM PENUMALA
-*Full Stack Developer*  
-📧 Sriram1640987@gmail.com • 📱 8639706951 • 📍 Asbestos Colony, Jagadgiri Gutta, Hyderabad, Telangana 500072
+🚀 **Full Stack Developer** | 💻 **Tech Enthusiast** | 🎯 **Problem Solver**  
 
 ---
 
-<!-- Animated header GIF (GitHub will render the GIF). Replace URLs with your own if needed. -->
+## 🔥 About Me  
+- 🎓 B.Tech in Information Technology (2021–2025) @ DRK College of Engineering and Technology  
+- 💡 Passionate about **Web Development, AI/ML, and Scalable Systems**  
+- ⚡ Love building **real-world projects** and learning new tech stacks  
+
+---
+
+## 🛠️ Tech Stack  
+**Languages:** Java · JavaScript · HTML · CSS · SQL  
+**Frameworks:** React.js · Spring Boot · Bootstrap  
+**Databases & Platforms:** MySQL · Firebase · Node.js  
+**Tools:** Git · GitHub · VSCode · Eclipse · Maven  
+
+---
+
+## 📂 Projects  
+🍽️ **Catering Reservation App** – Catering service bookings & food orders  
+📊 **Exam Result Portal** – React app for students to view results  
+
+---
+
+## 🏅 Certifications  
+✅ Full Stack Web Development Internship – Unified Mentor  
+✅ Python Certification – Naresh IT  
+
+---
+
+## 📊 GitHub Stats  
+
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="animated avatar" width="260" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhiramrasamalla&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiramrasamalla&layout=compact&theme=radical" height="180"/>
 </p>
 
 ---
 
-## Snapshot
-- *Role:* Full Stack Developer  
-- *Core:* Java | JavaScript | React | Spring Boot | MySQL  
-- *Tools:* Git, VSCode, Eclipse, Maven, Bootstrap, Firebase
+## 🌐 Connect with Me  
+  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Sriram9010)  
 
 ---
 
-## Education
-- *DRK College of Engineering and Technology* — B.Tech (Information Technology)  
-  Nov 2021 – July 2025 • *CGPA:* 7.0
-- *Narayana Junior College* — Jun 2019 – May 2021 • Marks: 890
-- *Rainbow Model High School (CBSE)* — Jun 2018 – May 2019 • *CGPA:* 7.5
+## 🎇 Animated Contribution Graph  
+
+![Snake animation](https://github.com/Abhiramrasamalla/Abhiramrasamalla/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-## Projects
-### Catering Reservation Application
-- *Tech:* Firebase, JavaScript, HTML, CSS  
-- Web app for booking catering and managing food orders for events. Includes booking flow, order summary, and admin view.
-
-### Exam Results React App
-- *Tech:* React (Vite), HTML, CSS, JavaScript  
-- Search and view JNTU exam results with a responsive UI and easy lookup.
-
----
-
-## Skills
-- *Languages:* Java, JavaScript, HTML, CSS, SQL  
-- *Frameworks / Libraries:* Spring Boot, React.js, Bootstrap  
-- *Databases / Backend:* MySQL, Firebase, Node.js  
-- *Tools:* Git, GitHub, VSCode, Eclipse, Maven
-
----
-
-## Certifications
-- *Full Stack Web Development Internship* — Unified Mentor  
-- *Python Certification* — Naresh IT
-
----
-
-## Experience / Internships
-(Add employer names, roles, dates — update below if you want this section expanded.)
-
----
-
-## Links
--   
-- *GitHub:* [https://github.com/Sriram9010](https://github.com/Sriram9010)
-
----
-
-## Visual 3D Card (animated)
-If you want a 3D-card effect inside a preview-capable reader (VS Code, some static sites), use the GIF below as a header image or replace it with your own animated GIF that visually looks like a 3D card:
-
-![subtle motion](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
-
----
-
-## How to use
-1. Save this content into SRIRAM_RESUME.md.  
-2. Open README.md or .md in VS Code or on GitHub to view (GIFs animate anywhere images are shown).  
-3. To replace the GIFs, swap the src URLs above with your own GIF links.
-
----
-
-## Notes
-- This file is intentionally GitHub-friendly (no <style> blocks) and keeps animations via GIFs so GitHub/VSCode will render them correctly.
-- If you want a PDF export, a printable layout, or a version with your own photo/GIF, tell me the image URL or upload the image and I’ll produce it.
-
----
-End of file
+⭐️ *“Code is like humor. When you have to explain it, it’s bad.”*
