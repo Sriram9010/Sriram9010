@@ -60,7 +60,7 @@
 
 ## Links
 -   
-- *GitHub:* https://github.com/Sriram9010
+- *GitHub:* [https://github.com/Sriram9010](https://github.com/Sriram9010)
 
 ---
 
