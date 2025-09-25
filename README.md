@@ -1,99 +1,86 @@
-# 👋 Hi, I'm Sriram Penumala
+<!-- SRIRAM_RESUME.md - Animated README-style resume for SRIRAM PENUMALA -->
 
-<!-- Animated 3D-style cube -->
-<svg width="320" height="180" viewBox="0 0 320 180" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-  <defs>
-    <linearGradient id="g1" x1="0" x2="1">
-      <stop offset="0" stop-color="#00C9FF"/>
-      <stop offset="1" stop-color="#92FE9D"/>
-    </linearGradient>
-    <linearGradient id="g2" x1="0" x2="1">
-      <stop offset="0" stop-color="#7F7FD5"/>
-      <stop offset="1" stop-color="#86A8E7"/>
-    </linearGradient>
-    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
-      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000" flood-opacity="0.25"/>
-    </filter>
-  </defs>
-
-  <!-- background -->
-  <rect width="100%" height="100%" rx="12" fill="transparent"/>
-
-  <!-- cube group (isometric-look) -->
-  <g transform="translate(160,90)">
-    <!-- animate rotation around center -->
-    <animateTransform attributeName="transform"
-                      type="rotate"
-                      from="0 0 0"
-                      to="360 0 0"
-                      dur="6s"
-                      repeatCount="indefinite"/>
-    <!-- shadow -->
-    <ellipse cx="0" cy="70" rx="70" ry="18" fill="#000" opacity="0.12"/>
-
-    <!-- top face -->
-    <polygon points="-60,-30 0,-70 60,-30 0,10"
-             fill="url(#g1)" stroke="#ffffff" stroke-opacity="0.15" stroke-width="1" filter="url(#shadow)"/>
-
-    <!-- left face -->
-    <polygon points="-60,-30 0,10 0,60 -60,20"
-             fill="url(#g2)" stroke="#ffffff" stroke-opacity="0.10" stroke-width="1"/>
-
-    <!-- right face -->
-    <polygon points="60,-30 0,10 0,60 60,20"
-             fill="#2b2b2b" fill-opacity="0.90" stroke="#ffffff" stroke-opacity="0.10" stroke-width="1"/>
-
-    <!-- subtle highlight -->
-    <path d="M-20,-20 L0,-10 L20,-20" stroke="rgba(255,255,255,0.18)" stroke-width="2" fill="none" />
-
-    <!-- small rotation accent -->
-    <g transform="scale(0.8)">
-      <circle cx="0" cy="0" r="2.8" fill="#fff" opacity="0.06"/>
-    </g>
-  </g>
-
-  <!-- label -->
-  <text x="10" y="165" font-family="Segoe UI, Roboto, Arial" font-size="12" fill="#666">
-    Full-Stack · Java · React · Firebase · MySQL
-  </text>
-</svg>
+# SRIRAM PENUMALA
+*Full Stack Developer*  
+📧 Sriram1640987@gmail.com • 📱 8639706951 • 📍 Asbestos Colony, Jagadgiri Gutta, Hyderabad, Telangana 500072
 
 ---
 
-## 🌟 About Me
-- 🎓 **B.Tech in Information Technology** — DRK College of Engineering and Technology (2021–2025)  
-- 💻 **Full Stack Developer** building web apps with React, Spring Boot, Firebase and MySQL.  
-- ⚡️ I enjoy turning ideas into fast, clean user experiences.
-
-## 🛠️ Tech Stack
-**Languages:** `Java` | `JavaScript` | `HTML` | `CSS` | `SQL`  
-**Frameworks & Libs:** `React.js` | `Spring Boot` | `Bootstrap`  
-**Databases & Platforms:** `MySQL` | `Firebase` | `Node.js`  
-**Tools:** `Git` | `GitHub` | `VSCode` | `Eclipse` | `Maven`
-
-## 📂 Projects
-- 🍽️ **Catering Reservation App** — A web app to streamline catering bookings & orders.  
-  *Tech:* Firebase, JavaScript, HTML, CSS
-
-- 📊 **Exam Result Portal** — A React app to look up and view exam results.  
-  *Tech:* React (Vite), HTML, CSS, JavaScript
-
-## 🏅 Certifications
-- Full Stack Web Development Internship — **Unified Mentor**  
-- Python Certification — **Naresh IT**
-
-## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhirasamalla/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Abhiramrasamalla)
+<!-- Animated header GIF (GitHub will render the GIF). Replace URLs with your own if needed. -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="animated avatar" width="260" />
+</p>
 
 ---
 
-> ⭐ Tip: to make the cube even fancier, we can:
-> - export a GIF of a 3D model rotating (higher realism), or  
-> - host a small WebGL/Three.js demo in GitHub Pages and link it from the README.
+## Snapshot
+- *Role:* Full Stack Developer  
+- *Core:* Java | JavaScript | React | Spring Boot | MySQL  
+- *Tools:* Git, VSCode, Eclipse, Maven, Bootstrap, Firebase
 
-Would you like me to (pick one):
-1. Export a **high-quality GIF** (3D-look) you can upload to the repo, or  
-2. Create a **Three.js** mini-demo page (HTML + JS) and README snippet to embed/link to it?  
+---
 
-If you pick 1 or 2 I’ll produce the full files you can copy into your repo.
+## Education
+- *DRK College of Engineering and Technology* — B.Tech (Information Technology)  
+  Nov 2021 – July 2025 • *CGPA:* 7.0
+- *Narayana Junior College* — Jun 2019 – May 2021 • Marks: 890
+- *Rainbow Model High School (CBSE)* — Jun 2018 – May 2019 • *CGPA:* 7.5
+
+---
+
+## Projects
+### Catering Reservation Application
+- *Tech:* Firebase, JavaScript, HTML, CSS  
+- Web app for booking catering and managing food orders for events. Includes booking flow, order summary, and admin view.
+
+### Exam Results React App
+- *Tech:* React (Vite), HTML, CSS, JavaScript  
+- Search and view JNTU exam results with a responsive UI and easy lookup.
+
+---
+
+## Skills
+- *Languages:* Java, JavaScript, HTML, CSS, SQL  
+- *Frameworks / Libraries:* Spring Boot, React.js, Bootstrap  
+- *Databases / Backend:* MySQL, Firebase, Node.js  
+- *Tools:* Git, GitHub, VSCode, Eclipse, Maven
+
+---
+
+## Certifications
+- *Full Stack Web Development Internship* — Unified Mentor  
+- *Python Certification* — Naresh IT
+
+---
+
+## Experience / Internships
+(Add employer names, roles, dates — update below if you want this section expanded.)
+
+---
+
+## Links
+- *LinkedIn:* https://www.linkedin.com/in/abhirasamalla/  
+- *GitHub:* https://github.com/Abhiramrasamalla
+
+---
+
+## Visual 3D Card (animated)
+If you want a 3D-card effect inside a preview-capable reader (VS Code, some static sites), use the GIF below as a header image or replace it with your own animated GIF that visually looks like a 3D card:
+
+![subtle motion](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
+
+---
+
+## How to use
+1. Save this content into SRIRAM_RESUME.md.  
+2. Open README.md or .md in VS Code or on GitHub to view (GIFs animate anywhere images are shown).  
+3. To replace the GIFs, swap the src URLs above with your own GIF links.
+
+---
+
+## Notes
+- This file is intentionally GitHub-friendly (no <style> blocks) and keeps animations via GIFs so GitHub/VSCode will render them correctly.
+- If you want a PDF export, a printable layout, or a version with your own photo/GIF, tell me the image URL or upload the image and I’ll produce it.
+
+---
+End of file
