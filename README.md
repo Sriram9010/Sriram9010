@@ -59,8 +59,8 @@
 ---
 
 ## Links
-- *LinkedIn:* https://www.linkedin.com/in/abhirasamalla/  
-- *GitHub:* https://github.com/Abhiramrasamalla
+-   
+- *GitHub:* https://github.com/Sriram9010
 
 ---
 
