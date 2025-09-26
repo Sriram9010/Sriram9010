@@ -41,7 +41,7 @@
 ---
 
 ## 📂 Featured Projects
-- 🍽 [Catering Reservation & Ordering System](](https://github.com/Sriram9010/catering-reservation-app-project.git))  
+- 🍽 [Catering Reservation & Ordering System](https://github.com/Sriram9010/catering-reservation-app-project.git)  
 - 🎮 [Tic Tac Toe Game](https://github.com/Sriram9010/tic-tac-toe-game.git)    
 
 ---
@@ -49,8 +49,8 @@
 ## 📊 GitHub Stats & Animations  
 
 [### 🔥 Streak Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sriram9010&theme=tokyonight&hide_border=true)  ]
-(https://github-readme-streak-stats.herokuapp.com?user=Sriram9010&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sriram9010&theme=tokyonight&hide_border=true)  
+
 
 ### 📈 Contribution Graph (3D Animation)  
 
