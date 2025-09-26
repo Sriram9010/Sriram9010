@@ -18,10 +18,10 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Final-year *Computer Science Engineering Student* at DRK College of Engineering & Technology (Graduating 2025)  
-- 💻 Currently learning *Full Stack Web Development* (MERN & JavaScript)  
-- 🛠 Experienced in *C, C++, Python, HTML, CSS, JavaScript*  
-- 📚 Working on projects like *Catering Reservation & Ordering System* and *Tic Tac Toe Game*  
+- 🎓 *Computer Science Engineering Student* at DRK College of Engineering & Technology (Graduating 2025)  
+- 💻 Currently learning *Full Stack Web Development and fullstack java* (MERN & JavaScript)
+- 🛠 Experienced in *C, C++,HTML, CSS, JavaScript*  
+- 📚 Working on projects like *Catering Reservation & Ordering System*.  
 - 🏆 Gold Medalist in *Cricket & Marathon Racing*  
 - ✨ Passionate about building *user-friendly websites*  
 
