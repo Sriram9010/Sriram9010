@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Sriram Penumala  
+# Hi there , I'm Sriram Penumala  
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;React+%7C+NestJS+%7C+PHP+%7C+MySQL;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
@@ -17,7 +17,7 @@
 </p>
 ---
 
-## 🚀 About Me
+##  About Me
 - 🎓 *Computer Science Engineering Student* at DRK College of Engineering & Technology (Graduating 2025)  
 - 💻 Currently learning *Full Stack Web Development and fullstack java* (MERN & JavaScript)
 - 🛠 Experienced in *C, C++,HTML, CSS, JavaScript*  
@@ -33,16 +33,16 @@
 
 ---
 
-## 🌱 I’m Currently Learning
+##  I’m Currently Learning
 - Advanced *JavaScript & React*  
 - *Backend Development* with Node.js & Express  
 - *Database Management* with MongoDB & Firebase  
 
 ---
 
-## 📂 Featured Projects
-- 🍽 [Catering Reservation & Ordering System](https://github.com/Sriram9010/catering-reservation-app-project.git)  
-- 🎮 [Tic Tac Toe Game](https://github.com/Sriram9010/tic-tac-toe-game.git)    
+##  Featured Projects
+-  [Catering Reservation & Ordering System](https://github.com/Sriram9010/catering-reservation-app-project.git)  
+-  [Tic Tac Toe Game](https://github.com/Sriram9010/tic-tac-toe-game.git)    
 
 ---
 
