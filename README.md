@@ -1,5 +1,7 @@
 # Hi there 👋, I'm Sriram Penumala  
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;React+%7C+NestJS+%7C+PHP+%7C+MySQL;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
 🌟 Welcome to my GitHub profile! I’m passionate about *Full Stack Development* and enjoy learning new technologies every day.  
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge" />
