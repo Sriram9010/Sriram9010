@@ -53,7 +53,10 @@
 )
 
 ### 📈 Contribution Graph (3D Animation)  
-![3D Contribution Graph](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)  
+![3D Contribution Graph](### 📈 Contribution Graph (Snake Animation)
+
+![Snake animation](https://github.com/Sriram9010/Sriram9010/blob/output/github-contribution-grid-snake.svg)
+  
 
 ### ⚡ GitHub Stats Card  
 ![Tharun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sriram9010&show_icons=true&theme=radical&hide_border=true)  
@@ -66,7 +69,7 @@
 ## 📫 How to reach me:
 - 📧 Email: *sriram1640987@gmail.com*  
 - 📱 Phone: *+91 8639706951*  
-- 💼 [LinkedIn](https://www.linkedin.com/in/sriram-penumala-3a86a9301/))   
+- 💼 [LinkedIn](https://www.linkedin.com/in/sriram-penumala/))   
 - 🐙 [GitHub](https://github.com/Sriram9010)  
 
 ---
