@@ -56,7 +56,7 @@
 
 
 ![Snake animation](![3D Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
-)
+
   
 
 ### ⚡ GitHub Stats Card  
