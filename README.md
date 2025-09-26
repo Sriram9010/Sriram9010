@@ -49,13 +49,14 @@
 ## 📊 GitHub Stats & Animations  
 
 [### 🔥 Streak Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sriram9010&theme=tokyonight&hide_border=true)  ](https://github-readme-streak-stats.herokuapp.com?user=Sriram9010&theme=tokyonight&hide_border=true
-)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sriram9010&theme=tokyonight&hide_border=true)  ]
+(https://github-readme-streak-stats.herokuapp.com?user=Sriram9010&theme=tokyonight&hide_border=true)
 
 ### 📈 Contribution Graph (3D Animation)  
-![3D Contribution Graph](### 📈 Contribution Graph (Snake Animation)
 
-![Snake animation](https://github.com/Sriram9010/Sriram9010/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](![3D Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+)
   
 
 ### ⚡ GitHub Stats Card  
