@@ -1,77 +1,68 @@
-# 👋 Hi, I'm Penumala Sriram
+# Hi there 👋, I'm Sriram Penumala  
 
-![header](https://img.shields.io/badge/Hello-I'm%20Sriram-orange?style=for-the-badge&logo=github)
-
-### 💻 Full-Stack Developer-in-training • Frontend & Backend • ML Enthusiast  
-📍 Hyderabad, India • ✉️ [sriram1640987@gmail.com](mailto:sriram1640987@gmail.com) • 📱 +91-8639706951  
+🌟 Welcome to my GitHub profile! I’m passionate about *Full Stack Development* and enjoy learning new technologies every day.  
 
 ---
 
-## 🔭 About Me
-I’m a passionate Computer Engineering graduate building web apps, learning modern JavaScript & React, and experimenting with ML (CNN / YOLOv7).  
-I love turning ideas into interactive user experiences and exploring AI-driven solutions.
-
-- 🎓 **B.Tech in Computers** — DRK College of Engineering & Technology  
-- 🧪 **Intern**: Unified Mentor — frontend + backend experience  
-- ⚡ Skills in **JavaScript, React, Python, Java, ML models**
-
----
-
-## 🧩 Quick Stats
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_Sriram9010&theme=dark&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_Sriram9010&layout=compact)
+## 🚀 About Me
+- 🎓 Final-year *Computer Science Engineering Student* at DRK College of Engineering & Technology (Graduating 2025)  
+- 💻 Currently learning *Full Stack Web Development* (MERN & JavaScript)  
+- 🛠 Experienced in *C, C++, Python, HTML, CSS, JavaScript*  
+- 📚 Working on projects like *Catering Reservation & Ordering System* and *Tic Tac Toe Game*  
+- 🏆 Gold Medalist in *Cricket & Marathon Racing*  
+- ✨ Passionate about building *user-friendly websites*  
 
 ---
 
-## 🛠️ Tech & Tools
-- **Languages:** JavaScript, Python, HTML, CSS, Java  
-- **Frontend:** React, Tailwind, HTML5, CSS3  
-- **Backend:** Node.js basics, REST APIs  
-- **ML / CV:** Python, CNN, YOLOv7 (weed detection)  
-- **Tools:** Git, VS Code, Excel, Word
+## 🔭 Current Focus
+- Building *real-world projects* with Firebase, React, and Node.js  
+- Preparing to secure a *Full Stack Developer role by mid-2025*  
 
 ---
 
-## 🚀 Projects
-- **Catering Reservation App** — full-stack event food ordering app.  
-- **Tic Tac Toe Web Game** — classic game with responsive UI.  
-- **Weed Detection (YOLOv7)** — CNN pipeline for agricultural weed detection.  
-- **Phishing Link Detector** — prototype using URL comparison logic.
+## 🌱 I’m Currently Learning
+- Advanced *JavaScript & React*  
+- *Backend Development* with Node.js & Express  
+- *Database Management* with MongoDB & Firebase  
 
 ---
 
-## 🏆 Certifications & Internships
-- React JS Certification (2025)  
-- Java Full Stack Certification (2025)  
-- Python Course (2023–Present)  
-- Unified Mentor Internship (Frontend + Backend)
+## 📂 Featured Projects
+- 🍽 [Catering Reservation & Ordering System](](https://github.com/Sriram9010/catering-reservation-app-project.git))  
+- 🎮 [Tic Tac Toe Game](https://github.com/Sriram9010/tic-tac-toe-game.git)    
 
 ---
 
-## 📚 Education
-- **B.Tech — Computers**, DRK College of Engineering & Technology — GPA 6.8  
-- **Class XII (Telangana)** — 90%  
-- **Class X (CBSE)** — 75%
+## 📊 GitHub Stats & Animations  
+
+[### 🔥 Streak Stats  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sriram9010&theme=tokyonight&hide_border=true)  ](https://github-readme-streak-stats.herokuapp.com?user=Sriram9010&theme=tokyonight&hide_border=true
+)
+
+### 📈 Contribution Graph (3D Animation)  
+![3D Contribution Graph](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)  
+
+### ⚡ GitHub Stats Card  
+![Tharun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sriram9010&show_icons=true&theme=radical&hide_border=true)  
+
+### 🚀 Top Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sriram9010&layout=compact&theme=radical&hide_border=true)  
 
 ---
 
-## 🗣 Languages & Soft Skills
-- **Languages:** Telugu, English, Hindi  
-- **Soft Skills:** Communication, Typing, Team Player
+## 📫 How to reach me:
+- 📧 Email: *sriram1640987@gmail.com*  
+- 📱 Phone: *+91 8639706951*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sriram-penumala-3a86a9301/))   
+- 🐙 [GitHub](https://github.com/Sriram9010)  
 
 ---
 
-# 🎨 3D Interactive Animation
+## ⚡ Fun Facts
+- 🎶 Love music, anime, and web series  
+- 🏏 Big fan of cricket & strategy games like chess  
+- 🌱 Believe in continuous growth and learning  
 
-This repo also includes a custom **Three.js 3D animation** you can use as a **dynamic banner** for portfolios or GitHub Pages.
+---
 
-## 📁 Files
-- `index.html` — the 3D animation source.  
-- `README.md` — this file.  
-- `assets/` — optional folder for GIF previews.
-
-## 🚀 Preview Locally
-```bash
-# Open index.html in your browser
-# or serve with Python
-python -m http.server 8000
+✨ Thanks for visiting my profile! Feel free to check out my projects and connect with me. 🚀
