@@ -45,8 +45,7 @@
 -  [Tic Tac Toe Game](https://github.com/Sriram9010/tic-tac-toe-game.git)    
 
 ---
-
-## 📊 GitHub Stats & Animations  
+  
 
 [### 🔥 Streak Stats  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sriram9010&theme=tokyonight&hide_border=true)  
@@ -59,7 +58,7 @@
 
   
 
-### ⚡ GitHub Stats Card  
+### GitHub Stats Card  
 ![Tharun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sriram9010&show_icons=true&theme=radical&hide_border=true)  
 
 ### 🚀 Top Languages  
@@ -67,11 +66,11 @@
 
 ---
 
-## 📫 How to reach me:
-- 📧 Email: *sriram1640987@gmail.com*  
-- 📱 Phone: *+91 8639706951*  
-- 💼 [LinkedIn](https://www.linkedin.com/in/sriram-penumala/))   
-- 🐙 [GitHub](https://github.com/Sriram9010)  
+## How to reach me:
+-  Email: *sriram1640987@gmail.com*  
+-  Phone: *+91 8639706951*  
+-  [LinkedIn](https://www.linkedin.com/in/sriram-penumala/))   
+- [GitHub](https://github.com/Sriram9010)  
 
 ---
 
